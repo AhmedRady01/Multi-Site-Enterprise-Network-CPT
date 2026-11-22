@@ -35,9 +35,9 @@ A multi-site network lab built in Cisco Packet Tracer: 4 routers connected over 
 Static routing • VLSM • Cisco IOS CLI • DNS/DHCP/FTP/Mail services • SSH • Network troubleshooting
 
 ## Files
-- `SOC-TNT314_..._MegaLab.pkt` – Packet Tracer file
+- `multi-site-network-packet-tracer.pkt` – Packet Tracer file
 - `topology.png` – network diagram
 
 ## Author
 Ahmed Rady – SOC Analyst Intern | CCNA | Cisco Ethical Hacker
-[LinkedIn](https://www.linkedin.com/in/ahmed-rady-b35252244) • [GitHub](https://github.com/AhmedRady01)
+[LinkedIn](https://www.linkedin.com/in/ahmed--rady) • [GitHub](https://github.com/AhmedRady01)
